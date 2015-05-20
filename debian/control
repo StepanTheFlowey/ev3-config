@@ -1,0 +1,18 @@
+Source: ev3-config
+Priority: optional
+Maintainer: David Lechner <david@lechnology.com>
+Build-Depends: debhelper (>= 9.0.0)
+Standards-Version: 3.9.5
+Section: embedded
+Homepage: http://www.ev3dev.org
+Vcs-Git: git://github.com/ev3dev/ev3-config.git
+Vcs-Browser: https://github.com/ev3dev/ev3-config
+
+Package: ev3-config
+Section: embedded
+Architecture: armel
+Depends: ${misc:Depends}
+Replaces: ev3dev-console, ev3dev-ports
+Breaks: ev3dev-console, ev3dev-ports
+Description: Configuration files for LEGO MINDSTORMS EV3.
+ This package is only useful for LEGO MINDSTORMS EV3 running an ev3dev kernel.

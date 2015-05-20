@@ -1,0 +1,4 @@
+# This file is part of the ev3-config package
+
+# Uncomment the following line to enable serial port debugging
+#options legoev3_ports disable_in_port=1
