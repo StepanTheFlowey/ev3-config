@@ -1,3 +1,10 @@
+ev3-config (2.1.0) stable; urgency=medium
+
+  * Fix mising /etc/modprobe.d/ev3.conf file.
+  * Remove vm.swappiness = 1 from sysctl
+
+ -- David Lechner <david@lechnology.com>  Sun, 20 Dec 2015 13:58:24 -0600
+
 ev3-config (2) stable; urgency=medium
 
   * Add swappiness setting to sysctl .conf file
