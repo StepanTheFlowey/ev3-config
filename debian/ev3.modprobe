@@ -2,3 +2,9 @@
 
 # Uncomment the following line to enable serial port debugging
 #options legoev3_ports disable_in_port=1
+
+# Uncomment whichever driver you need
+# rtl8192cu provides better performance for some
+# rtl8xxxu supports more devices
+blacklist rtl8xxxu
+#blacklist rtl8192cu
