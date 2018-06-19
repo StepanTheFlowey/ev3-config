@@ -1,3 +1,13 @@
+ev3-config (2.1.1) stable; urgency=medium
+
+  [ Pepijn de Vos ]
+  * Blacklist rtl8xxxu and add comment
+
+  [ David Lechner ]
+  * remove disable_in_port option
+
+ -- David Lechner <david@lechnology.com>  Tue, 19 Jun 2018 15:23:53 -0500
+
 ev3-config (2.1.0) stable; urgency=medium
 
   * Fix mising /etc/modprobe.d/ev3.conf file.
