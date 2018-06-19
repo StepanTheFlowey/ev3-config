@@ -9,7 +9,6 @@ Vcs-Git: git://github.com/ev3dev/ev3-config.git
 Vcs-Browser: https://github.com/ev3dev/ev3-config
 
 Package: ev3-config
-Section: embedded
 Architecture: armel
 Depends: ${misc:Depends}
 Replaces: ev3dev-console, ev3dev-ports
