@@ -1,3 +1,10 @@
+ev3-config (2.1.1+fl0wey1) stable; urgency=medium
+
+  * Various cleanup
+  * More sysctl tweaks
+
+ -- Flowey <stepanmasirov@gmail.com>  Tue, 08 Oct 2024 14:14:09 +0000
+
 ev3-config (2.1.1) stable; urgency=medium
 
   [ Pepijn de Vos ]

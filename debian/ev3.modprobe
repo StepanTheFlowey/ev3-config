@@ -1,5 +1,3 @@
-# This file is part of the ev3-config package
-
 # Uncomment whichever driver you need
 # rtl8192cu provides better performance for some
 # rtl8xxxu supports more devices
