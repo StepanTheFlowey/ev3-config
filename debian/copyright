@@ -1,4 +1,6 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Source: <https://github.com/ev3dev/ev3-config>
+Upstream-Name: ev3-config
 
 Files: *
 Copyright: 2014-2015 David Lechner <david@lechnology.com>

@@ -5,8 +5,8 @@ Build-Depends: debhelper (>= 10)
 Standards-Version: 3.9.8
 Section: embedded
 Homepage: http://www.ev3dev.org
-Vcs-Git: https://github.com/ev3dev/ev3-config.git
-Vcs-Browser: https://github.com/ev3dev/ev3-config
+Vcs-Git: https://github.com/StepanTheFlowey/ev3-config.git
+Vcs-Browser: https://github.com/StepanTheFlowey/ev3-config
 
 Package: ev3-config
 Architecture: armel
